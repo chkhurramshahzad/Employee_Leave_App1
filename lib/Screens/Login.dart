@@ -3,7 +3,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:leave_app/Resources/auth_methods.dart';
 import 'package:leave_app/Screens/Dashboard.dart';
-import 'package:leave_app/Screens/homescreen.dart';
 import 'package:leave_app/widget/text_field_input.dart';
 
 class LoginScreen extends StatefulWidget {
