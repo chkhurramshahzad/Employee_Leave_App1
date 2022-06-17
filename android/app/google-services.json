@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451239196417",
+    "firebase_url": "https://mezzos-dev-default-rtdb.firebaseio.com",
+    "project_id": "mezzos-dev",
+    "storage_bucket": "mezzos-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451239196417:android:dd03fa88716a3c68954d00",
+        "android_client_info": {
+          "package_name": "com.example.leave_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451239196417-3claoob5s879kbrvltef8u80h4v57aee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6l5tG-eG2e6CMnmoGWL3HjQ8V-QDHE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451239196417-3claoob5s879kbrvltef8u80h4v57aee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
